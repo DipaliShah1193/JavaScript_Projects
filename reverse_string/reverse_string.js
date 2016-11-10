@@ -11,7 +11,7 @@ function reverseString(str) {
     //Join method to convert Array to String
     var revStr=revArray.join("");//olleh
     
-    return revStr
+    return revStr;
 }
 
 var answer=reverseString("hello");
