@@ -1,4 +1,5 @@
-//Create a function to reverse a string
+/*Create a function to reverse a string
+for ex. hello should become "olleh" */
 
 function reverseString(str) {
     
@@ -15,5 +16,4 @@ function reverseString(str) {
 }
 
 var answer=reverseString("hello");
-
 console.log(answer);//olleh
